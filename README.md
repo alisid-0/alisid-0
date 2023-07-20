@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Lunaris](https://nervcorp.itch.io/lunaris)
 
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [-](-)
+- 🌱 I’m currently learning **3D Model Creation in Blender**
 
 - 💬 Ask me about **React, Unreal Engine, Django**
 
