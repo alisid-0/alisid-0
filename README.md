@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alisiddiquia22@yahoo.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14pf3Ar5VYUQm1Et33hG4VrNVsT3EBwFSu8hzLlilNtU/edit?usp=sharing](https://docs.google.com/document/d/14pf3Ar5VYUQm1Et33hG4VrNVsT3EBwFSu8hzLlilNtU/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/14pf3Ar5VYUQm1Et33hG4VrNVsT3EBwFSu8hzLlilNtU/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm ambidextrous**
 
