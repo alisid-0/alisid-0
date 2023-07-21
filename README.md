@@ -4,11 +4,11 @@
 <p>I am a Full Stack Developer who leverages scientific knowledge and international exposure to create immersive, user-friendly digital experiences. I gained extensive experience in the scientific field and in developing video games, giving me a rich understanding of how to translate complex concepts into accessible and engaging products. I aspire to utilize my skills in Full Stack Development and my passion for video games to craft universal software solutions that resonate with users worldwide. By integrating my background in science and my unique cultural perspective, I aim to drive innovation and inclusivity in the software development field.</p>
 
 Projects:
-  [Portfolio](https://github.com/alisid-0/ali-siddiqui-portfolio)
   [NervCorp](https://github.com/alisid-0/nervcorp)
   [DailyDish](https://github.com/alisid-0/dailydish)
   [Overwatch Wiki](https://github.com/alisid-0/overwatch-wiki)
   [Lunaris](https://nervcorp.itch.io/lunaris)
+  [Portfolio WIP](https://github.com/alisid-0/ali-siddiqui-portfolio)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisid-0&label=Profile%20views&color=0e75b6&style=flat" alt="alisid-0" /> </p>
 
