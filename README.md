@@ -5,6 +5,8 @@
 
 Projects:
   [DailyDish](https://github.com/alisid-0/dailydish)
+  [NervCorp](https://github.com/alisid-0/nervcorp)
+  [Portfolio](https://github.com/alisid-0/ali-siddiqui-portfolio)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisid-0&label=Profile%20views&color=0e75b6&style=flat" alt="alisid-0" /> </p>
 
