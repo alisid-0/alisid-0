@@ -3,6 +3,9 @@
 <h3 align="center">Crafting Code and Interactive Experiences: Full Stack and Indie Game Developer</h3>
 <p>I am a Full Stack Developer who leverages scientific knowledge and international exposure to create immersive, user-friendly digital experiences. I gained extensive experience in the scientific field and in developing video games, giving me a rich understanding of how to translate complex concepts into accessible and engaging products. I aspire to utilize my skills in Full Stack Development and my passion for video games to craft universal software solutions that resonate with users worldwide. By integrating my background in science and my unique cultural perspective, I aim to drive innovation and inclusivity in the software development field.</p>
 
+Projects:
+  [DailyDish](https://github.com/alisid-0/dailydish)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisid-0&label=Profile%20views&color=0e75b6&style=flat" alt="alisid-0" /> </p>
 
 - 🔭 I’m currently working on [Lunaris](https://nervcorp.itch.io/lunaris)
