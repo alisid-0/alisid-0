@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Siddiqui</h1>
 <p align="center"> St. Louis, MO </p>
 <h3 align="center">Crafting Code and Interactive Experiences: Full Stack and Indie Game Developer</h3>
-<p>I am a Full Stack Developer who leverages scientific knowledge and international exposure to create immersive, user-friendly digital experiences. I gained extensive experience in the scientific field and in developing video games, giving me a rich understanding of how to translate complex concepts into accessible and engaging products. I aspire to utilize my skills in Full Stack Development and my passion for video games to craft universal software solutions that resonate with users worldwide. By integrating my background in science and my unique cultural perspective, I aim to drive innovation and inclusivity in the software development field.</p>
+<p>I am a Full Stack and Indie Game Developer who leverages scientific knowledge and international exposure to create immersive, user-friendly digital experiences. I gained extensive experience in the scientific field and in developing video games, giving me a rich understanding of how to translate complex concepts into accessible and engaging products. I aspire to utilize my skills in Full Stack Development and my passion for video games to craft universal software solutions that resonate with users worldwide. By integrating my background in science and my unique cultural perspective, I aim to drive innovation and inclusivity in the software development field.</p>
 
 Projects:
   [NervCorp](https://github.com/alisid-0/nervcorp)
