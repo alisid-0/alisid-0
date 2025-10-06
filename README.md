@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ali Siddiqui  
-### 🚀 Senior Full Stack Engineer & Mobile Application Architect | React • React Native • Cloud • AI
+### 🚀 Senior Full Stack Engineer & Mobile Application Architect | React • React Native • Cloud • AI • Game Dev
 
-I’m a **Full Stack Engineer** specializing in the **React ecosystem**, **cross-platform mobile development**, and **cloud-native architectures**.  
-I architect and develop enterprise-grade web and mobile applications — delivering scalable, secure, and high-performance systems for real-world use.  
+I’m a **Full Stack Engineer** and **independent game developer** passionate about building both enterprise-scale applications and immersive interactive experiences.  
+With 2+ years of professional experience, I specialize in **React, React Native, and cloud-native architectures**, and have also spent several years exploring **Unreal Engine** and **Unity** for real-time 3D development.
 
-Currently, I’m the **sole developer at Upstream Inspections**, where I’ve built and deployed multiple production platforms serving the automotive industry.
+Currently, I’m the **sole engineer at Upstream Inspections**, architecting web and mobile platforms that power automotive inspection, transport, and dealership systems.
 
 ---
 
@@ -20,7 +20,10 @@ Node.js • Express.js • Firebase (Functions, Firestore, Auth) • REST • Gr
 Azure • Google Cloud Platform (GCP) • AWS (S3) • CI/CD (GitHub Actions, Vercel) • Firebase Hosting  
 
 **Mobile Development:**  
-React Native • .NET MAUI • Cross-Platform Architecture • Offline-First Design • Secure Auth (Biometrics) • Device APIs (Camera, GPS, Notifications)  
+React Native • .NET MAUI • Cross-Platform Architecture • Offline-First Design • Secure Auth (Biometrics) • Device API Integration  
+
+**Game Development:**  
+Unreal Engine 4 & 5 • Unity Engine • Blueprint Scripting • C# • Gameplay Programming • Lighting & Material Systems • 3D Optimization  
 
 **Database & Reporting:**  
 Firestore • MongoDB • SQL Server • PostgreSQL • Power BI  
@@ -30,41 +33,44 @@ Firestore • MongoDB • SQL Server • PostgreSQL • Power BI
 ## 🏗️ Featured Projects
 
 ### 🔹 **Upstream Inspections Platform**
-Enterprise automotive inspection ecosystem consisting of:
-- React web portal with RBAC, analytics dashboards, and Azure Blob Storage integration  
-- React Native mobile app with offline workflows, GPS tracking, and biometric authentication  
-- CI/CD pipelines on Azure & Firebase for continuous delivery  
+Enterprise-grade automotive ecosystem with:  
+- React web portal (RBAC, analytics, Azure Blob Storage integration)  
+- React Native mobile app (offline workflows, GPS tracking, biometrics)  
+- CI/CD deployment pipelines via Azure and Firebase  
 
 🧰 *Tech:* React • React Native • TypeScript • Azure Blob Storage • Firebase • Tailwind CSS • Framer Motion  
 
 ---
 
 ### 🔹 **Upstream Transport App**
-Cross-platform delivery and vehicle transfer management app.  
-Features include route tracking, customer signature capture, and inspection transfer validation.  
+Cross-platform app for managing vehicle delivery and inspection transfers.  
+Features include GPS route tracking, customer signatures, and automated queue management.  
 
-🧰 *Tech:* React Native (Expo) • Firebase • Node.js • GPS API • Offline-first architecture  
+🧰 *Tech:* React Native • Firebase • Node.js • GPS API • Offline-first architecture  
 
 ---
 
 ### 🔹 **The Butter Chicken Spot**
-Full-stack restaurant platform with web and mobile apps for order management, newsletter automation, and dynamic menu control.  
+Full-stack restaurant system with integrated web and mobile experiences for dynamic menu control, order management, and newsletter automation.  
 
 🧰 *Tech:* React • React Native • Express.js • Firebase • Spline 3D • Tailwind CSS  
 
 ---
 
 ### 🔹 **JARVIS AI Assistant**
-AI-powered automation assistant that integrates **Google Gemini AI** for natural language processing and system control automation.  
+Voice-controlled AI automation assistant integrating **Google Gemini AI** for natural language processing and system control.  
 
 🧰 *Tech:* React Native • Node.js • Gemini AI • Windows Services • Speech Recognition  
 
 ---
 
-## 🧩 What I’m Working On
-- Expanding **Upstream Mobility Platform** for real-time analytics & predictive modeling  
-- Building an internal **Dealer Management System (DMS)** with drag-and-drop pipelines and finance integration  
-- Experimenting with **AI-driven workflow automation** and **speech interfaces**  
+## 🎮 Game Development (Independent Projects)
+I’ve been an **independent game developer** for several years, focusing on real-time 3D experiences and gameplay systems.  
+- Built multiple prototype projects in **Unreal Engine 4/5** using Blueprint and C++.  
+- Experimented with **environment design**, **AI behavior trees**, and **physics-based gameplay systems**.  
+- Recently transitioned to **Unity** to expand into C# scripting and mobile-compatible workflows.  
+
+While I haven’t released any commercial titles yet, I use game development as a way to refine my problem-solving, real-time rendering, and creative design skills.
 
 ---
 
@@ -76,4 +82,4 @@ AI-powered automation assistant that integrates **Google Gemini AI** for natural
 
 ---
 
-> “Clean code, scalable architecture, and meaningful impact — that’s what drives my work.”
+> “Whether it’s a scalable enterprise platform or an immersive game world — I love turning complex ideas into clean, performant, and engaging experiences.”
