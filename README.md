@@ -1,40 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ali Siddiqui</h1>
-<p align="center"> Dallas, TX </p>
-<h3 align="center">Crafting Code and Interactive Experiences: Full Stack and Indie Game Developer</h3>
-<p>I am a Full Stack and Indie Game Developer who leverages scientific knowledge and international exposure to create immersive, user-friendly digital experiences. I gained extensive experience in the scientific field and in developing video games, giving me a rich understanding of how to translate complex concepts into accessible and engaging products. I aspire to utilize my skills in Full Stack Development and my passion for video games to craft universal software solutions that resonate with users worldwide. By integrating my background in science and my unique cultural perspective, I aim to drive innovation and inclusivity in the software development field.</p>
+# 👋 Hi, I'm Ali Siddiqui  
+### 🚀 Senior Full Stack Engineer & Mobile Application Architect | React • React Native • Cloud • AI
 
-Projects:
-  [NervCorp](https://github.com/alisid-0/nervcorp)
-  [DailyDish](https://github.com/alisid-0/dailydish)
-  [Overwatch Wiki](https://github.com/alisid-0/overwatch-wiki)
-  [Lunaris](https://nervcorp.itch.io/lunaris)
-  [Portfolio WIP](https://github.com/alisid-0/ali-siddiqui-portfolio)
+I’m a **Full Stack Engineer** specializing in the **React ecosystem**, **cross-platform mobile development**, and **cloud-native architectures**.  
+I architect and develop enterprise-grade web and mobile applications — delivering scalable, secure, and high-performance systems for real-world use.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisid-0&label=Profile%20views&color=0e75b6&style=flat" alt="alisid-0" /> </p>
+Currently, I’m the **sole developer at Upstream Inspections**, where I’ve built and deployed multiple production platforms serving the automotive industry.
 
-- 🔭 I’m currently working on [Lunaris](https://nervcorp.itch.io/lunaris)
+---
 
-- 🌱 I’m currently learning **3D Model Creation in Blender**
+## 🧠 Tech Stack
 
-- 💬 Ask me about **React, Unreal Engine, Django**
+**Frontend:**  
+React 18+ • React Native (Expo + Bare) • Next.js • TypeScript • Tailwind CSS • Framer Motion • Three.js • Vite  
 
-- 📫 How to reach me **alisiddiquia22@yahoo.com**
+**Backend & APIs:**  
+Node.js • Express.js • Firebase (Functions, Firestore, Auth) • REST • GraphQL • WebSockets • Serverless Architecture  
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/14pf3Ar5VYUQm1Et33hG4VrNVsT3EBwFSu8hzLlilNtU/edit?usp=sharing)
+**Cloud & DevOps:**  
+Azure • Google Cloud Platform (GCP) • AWS (S3) • CI/CD (GitHub Actions, Vercel) • Firebase Hosting  
 
-- ⚡ Fun fact **I'm ambidextrous**
+**Mobile Development:**  
+React Native • .NET MAUI • Cross-Platform Architecture • Offline-First Design • Secure Auth (Biometrics) • Device APIs (Camera, GPS, Notifications)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ali-a-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-a-siddiqui" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kiiiwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiiiwi" height="30" width="40" /></a>
-</p>
+**Database & Reporting:**  
+Firestore • MongoDB • SQL Server • PostgreSQL • Power BI  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisid-0&show_icons=true&locale=en&layout=compact" alt="alisid-0" /></p>
+## 🏗️ Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisid-0&show_icons=true&locale=en" alt="alisid-0" /></p>
+### 🔹 **Upstream Inspections Platform**
+Enterprise automotive inspection ecosystem consisting of:
+- React web portal with RBAC, analytics dashboards, and Azure Blob Storage integration  
+- React Native mobile app with offline workflows, GPS tracking, and biometric authentication  
+- CI/CD pipelines on Azure & Firebase for continuous delivery  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisid-0&" alt="alisid-0" /></p>
+🧰 *Tech:* React • React Native • TypeScript • Azure Blob Storage • Firebase • Tailwind CSS • Framer Motion  
+
+---
+
+### 🔹 **Upstream Transport App**
+Cross-platform delivery and vehicle transfer management app.  
+Features include route tracking, customer signature capture, and inspection transfer validation.  
+
+🧰 *Tech:* React Native (Expo) • Firebase • Node.js • GPS API • Offline-first architecture  
+
+---
+
+### 🔹 **The Butter Chicken Spot**
+Full-stack restaurant platform with web and mobile apps for order management, newsletter automation, and dynamic menu control.  
+
+🧰 *Tech:* React • React Native • Express.js • Firebase • Spline 3D • Tailwind CSS  
+
+---
+
+### 🔹 **JARVIS AI Assistant**
+AI-powered automation assistant that integrates **Google Gemini AI** for natural language processing and system control automation.  
+
+🧰 *Tech:* React Native • Node.js • Gemini AI • Windows Services • Speech Recognition  
+
+---
+
+## 🧩 What I’m Working On
+- Expanding **Upstream Mobility Platform** for real-time analytics & predictive modeling  
+- Building an internal **Dealer Management System (DMS)** with drag-and-drop pipelines and finance integration  
+- Experimenting with **AI-driven workflow automation** and **speech interfaces**  
+
+---
+
+## 💬 Let’s Connect
+- 📍 Dallas, TX  
+- ✉️ [alisiddiquia22@yahoo.com](mailto:alisiddiquia22@yahoo.com)  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio](#)  
+
+---
+
+> “Clean code, scalable architecture, and meaningful impact — that’s what drives my work.”
