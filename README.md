@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Siddiqui  
+# Hi, I'm Ali Siddiqui  
 ### Full Stack Engineer & Mobile Application Architect | React • React Native • Cloud • AI • Game Dev
 
 I’m a **Full Stack Engineer** and **independent game developer** passionate about building both enterprise-scale applications and immersive interactive experiences.  
