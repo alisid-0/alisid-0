@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ali Siddiqui  
-### 🚀 Full Stack Engineer & Mobile Application Architect | React • React Native • Cloud • AI • Game Dev
+### Full Stack Engineer & Mobile Application Architect | React • React Native • Cloud • AI • Game Dev
 
 I’m a **Full Stack Engineer** and **independent game developer** passionate about building both enterprise-scale applications and immersive interactive experiences.  
 With 2+ years of professional experience, I specialize in **React, React Native, and cloud-native architectures**, and have also spent several years exploring **Unreal Engine** and **Unity** for real-time 3D development.
@@ -8,7 +8,7 @@ Currently, I’m the **sole engineer at Upstream Inspections**, architecting web
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Frontend:**  
 React 18+ • React Native (Expo + Bare) • Next.js • TypeScript • Tailwind CSS • Framer Motion • Three.js • Vite  
@@ -30,41 +30,41 @@ Firestore • MongoDB • SQL Server • PostgreSQL • Power BI
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### 🔹 **Upstream Inspections Platform**
+### **Upstream Inspections Platform**
 Enterprise-grade automotive ecosystem with:  
 - React web portal (RBAC, analytics, Azure Blob Storage integration)  
 - React Native mobile app (offline workflows, GPS tracking, biometrics)  
 - CI/CD deployment pipelines via Azure and Firebase  
 
-🧰 *Tech:* React • React Native • TypeScript • Azure Blob Storage • Firebase • Tailwind CSS • Framer Motion  
+ *Tech:* React • React Native • TypeScript • Azure Blob Storage • Firebase • Tailwind CSS • Framer Motion  
 
 ---
 
-### 🔹 **Upstream Transport App**
+###  **Upstream Transport App**
 Cross-platform app for managing vehicle delivery and inspection transfers.  
 Features include GPS route tracking, customer signatures, and automated queue management.  
 
-🧰 *Tech:* React Native • Firebase • Node.js • GPS API • Offline-first architecture  
+ *Tech:* React Native • Firebase • Node.js • GPS API • Offline-first architecture  
 
 ---
 
-### 🔹 **The Butter Chicken Spot**
+###  **The Butter Chicken Spot**
 Full-stack restaurant system with integrated web and mobile experiences for dynamic menu control, order management, and newsletter automation.  
 
-🧰 *Tech:* React • React Native • Express.js • Firebase • Spline 3D • Tailwind CSS  
+ *Tech:* React • React Native • Express.js • Firebase • Spline 3D • Tailwind CSS  
 
 ---
 
-### 🔹 **JARVIS AI Assistant**
+###  **JARVIS AI Assistant**
 Voice-controlled AI automation assistant integrating **Google Gemini AI** for natural language processing and system control.  
 
-🧰 *Tech:* React Native • Node.js • Gemini AI • Windows Services • Speech Recognition  
+*Tech:* React Native • Node.js • Gemini AI • Windows Services • Speech Recognition  
 
 ---
 
-## 🎮 Game Development (Independent Projects)
+##  Game Development (Independent Projects)
 I’ve been an **independent game developer** for several years, focusing on real-time 3D experiences and gameplay systems.  
 - Built multiple prototype projects in **Unreal Engine 4/5** using Blueprint and C++.  
 - Experimented with **environment design**, **AI behavior trees**, and **physics-based gameplay systems**.  
